@@ -18,10 +18,10 @@ This shows outlines the post-install configuration of the osTicket.<br />
 </p>
 <h1>Post Instillation and Configuration Objectives </h1>
 <p> - Set Departments and Roles </p>
-<p> Set Teams and allow who can create tickets </p>
-<p> Set permissions for agents/workers and users/customers</p>
-<p>- Establish  SLA </p>
-<p>Configure Help Topics </p>
+<p> - Set Teams and allow who can create tickets </p>
+<p> - Set permissions for agents/workers and users/customers</p>
+<p> - Establish  SLA </p>
+<p> - Configure Help Topics </p>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
