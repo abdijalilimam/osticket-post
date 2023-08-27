@@ -3,20 +3,20 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
+<h1>osTicket - Post Installation Setup </h1>
 This shows outlines the post-install configuration of the osTicket.<br />
 
-<h1>Enviroment Used</h1>
+<h1>Enviroment</h1>
 <p>
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop (RDP)
 </p>
 
-<h1>Operating System Used</h1>
+<h1>Operating System</h1>
 <p>
 - Windows 10 (21H2)
 </p>
-<h1>Post Instillation and Configuration Objectives </h1>
+<h1>Post Instillation and Configuration Steps </h1>
 <p> - Set Departments and Roles </p>
 <p> - Set Teams and allow who can create tickets </p>
 <p> - Set permissions for agents/workers and users/customers</p>
