@@ -35,7 +35,7 @@ This shows outlines the post-install configuration of the osTicket.<br />
 <br />
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Next, we will create a department called System Administrator to do so locate "departments" in the agent tab. You can change and do so much under the department tab you like setting emails and SLAs and much more. Certain agents are assigned to different departments depending on the organizations and the different roles as helpdesk personnel
 </p>
 
 <p>
@@ -43,8 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Next, in order to have different skilled individuals to work on a specific problem we will need to create teams and this will allow for different skilled personnel to work together and get things done. To create teams go to "agents" --> teams </p>
 <br />
 
 <p>
@@ -52,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to allow all individuals to create tickets we will need to enable it in the user setting. To do so under the admin panel click settings then click on user settings.
 </p>
 
 <p>
@@ -60,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will create Agents which are the employees of the helpdesk depending on the business needs they have different roles and permissions and are able to have access to one or multiple departments. To create agents go to the admin panel and the the agents you can "add agents"
 </p>
 
 <p>
@@ -68,21 +67,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  These tickets that are created and being worked on need to have a time limit depending on the priority of the ticket and the business needs because it is not logical nor reasonable to create tickets and not able to be worked and completed accurately and in a timely manner. To set some guidelines for timely management we will need to create SLAs(Service Level Agreements) and this again depends on the organizational needs. To create SLA go to admin panel --> Manage ---> SLA Plans. In this example we set Severity A or "SEV-A" to 24/7 and a hour period.
 </p>
 
 <p> <img width="676" alt="image" src="https://github.com/abdijalilimam/osticket-post/assets/137457871/854c1478-52cf-4116-a16b-afa288f5f5f9">
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lastly, we will configure and create Help topics, creating topics such as Business Critical Outage, Equipment Request, Personal Computer Issues, Password Reset, and much more depending on needs.
 </p>
 
 <p> <img width="703" alt="image" src="https://github.com/abdijalilimam/osticket-post/assets/137457871/4cb0f8de-39b8-4196-9da9-60163f9630db">
-</p>
-
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 
 <br />
