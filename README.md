@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img width="715" alt="image" src="https://github.com/abdijalilimam/osticket-post/assets/137457871/ea851670-ab9f-405c-b80c-a306e16861ba">
+<img width="991" alt="image" src="https://github.com/abdijalilimam/osticket-post/assets/137457871/e44ffc6e-26c0-4fc1-97b0-a05b0262428c">
 
 </p>
 <p>
