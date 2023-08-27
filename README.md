@@ -6,24 +6,19 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This shows outlines the post-install configuration of the osTicket.<br />
 
+<h1>Enviroment Used</h1>
+Microsoft Azure (Virtual Machines/Compute)
+Remote Desktop (RDP)
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Internet Information Services (IIS)
+<h1>Operating System Used</h1>
+Windows 10 (21H2)
 
-<h2>Operating Systems Used </h2>
-
-- Windows 10</b> (21H2)
-
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
-<h2>Configuration Steps</h2>
+<h1>Post Instillation and Configuration Objectives </h1>
+Set Departments and Roles
+Set Teams and allow who can create tickets
+Set permissions for agents/workers and users/customers
+Establish  SLA
+Configure Help Topics
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
